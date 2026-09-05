@@ -11,11 +11,9 @@ Real-time object detection and tracking with a custom-trained RF-DETR model insi
 
 The pretrained COCO version of RF-DETR can find people in the warehouse but has no idea what a forklift is. So I used a dataset, fine-tuned RF-DETR on two classes (person, forklift), and connected it to the simulator through ROS 2. The result is a perception node that detects and tracks both classes in real time from the simulated camera.
 
-```
-Isaac Sim 5.1                    ROS 2 Jazzy                  RTX 5070 Ti
-warehouse scene   ──/warehouse_camera/rgb──▶  rfdetr_node.py ──▶  /rfdetr/annotated  (image for RViz)
-walking people                                RF-DETR + ByteTrack  /rfdetr/detections (Detection2DArray)
-```
+## Architecture
+
+![Architecture](media/architecture.png)
 
 ## Stack
 
