@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Model weights (download link in README instead)
+*.pth
+*.pt
+*.onnx
+*.engine
+models/
+
+# Datasets and training output
+datasets/
+runs/
+logs/
+output/
+checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+*.swp
+/dataset
+/output

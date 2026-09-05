@@ -1,0 +1,100 @@
+Character GoTo 6 -4 0 _
+Character Idle 2
+Character GoTo -4 -4 0 _
+Character Idle 2
+Character GoTo -4 3 0 _
+Character GoTo 6 3 0 _
+Character_01 LookAround 3.45
+Character_01 Idle 5.28
+Character_01 Idle 3.89
+Character_01 LookAround 2.94
+Character_01 Idle 2.18
+Character_01 Idle 4.1
+Character_01 LookAround 2.51
+Character_01 Idle 4.67
+Character_01 GoTo -10.35 -7.34 -0.0 _
+Character_01 Idle 2.52
+Character_01 LookAround 3.46
+Character_01 GoTo 2.22 4.99 0.0 _
+Character_02 Idle 2.39
+Character_02 Idle 4.8
+Character_02 LookAround 3.62
+Character_02 Idle 4.59
+Character_02 LookAround 3.3
+Character_02 Idle 2.58
+Character_02 LookAround 2.45
+Character_02 Idle 5.41
+Character_02 LookAround 3.81
+Character_02 Idle 4.07
+Character_02 LookAround 2.07
+Character_02 Idle 4.53
+Character_02 Idle 2.72
+Character_02 Idle 4.64
+Character_02 LookAround 2.85
+Character_02 Idle 4.6
+Character_02 LookAround 2.8
+Character_03 Idle 5.65
+Character_03 Idle 4.36
+Character_03 Idle 3.44
+Character_03 GoTo 8.38 -8.55 0.0 _
+Character_03 LookAround 3.25
+Character_03 Idle 2.04
+Character_03 LookAround 2.32
+Character_03 Idle 3.56
+Character_03 LookAround 2.38
+Character_03 GoTo -5.95 -15.33 0.0 _
+Character_03 Idle 2.82
+Character_03 GoTo -1.01 -10.03 0.0 _
+Character_03 Idle 4.23
+Character_04 Idle 4.21
+Character_04 Idle 3.31
+Character_04 LookAround 2.37
+Character_04 Idle 2.01
+Character_04 LookAround 4.0
+Character_04 Idle 4.33
+Character_04 Idle 4.56
+Character_04 Idle 5.2
+Character_04 LookAround 3.3
+Character_04 GoTo 7.39 -3.22 -0.0 _
+Character_04 LookAround 3.79
+Character_04 Idle 2.07
+Character_04 Idle 2.77
+Character_04 Idle 3.41
+Character_04 LookAround 3.11
+Character_04 Idle 4.32
+Character_05 Idle 5.73
+Character_05 Idle 4.1
+Character_05 LookAround 2.54
+Character_05 GoTo -4.39 8.75 -0.0 _
+Character_05 LookAround 2.01
+Character_05 GoTo 10.17 -1.16 0.0 _
+Character_05 LookAround 3.89
+Character_05 GoTo 5.52 17.44 0.0 _
+Character_06 LookAround 2.81
+Character_06 Idle 2.9
+Character_06 LookAround 3.72
+Character_06 Idle 4.29
+Character_06 Idle 2.01
+Character_06 Idle 5.43
+Character_06 Idle 3.21
+Character_06 GoTo -4.6 6.39 -0.0 _
+Character_06 LookAround 3.49
+Character_06 Idle 4.49
+Character_06 GoTo 1.8 -0.47 -0.0 _
+Character_06 LookAround 2.46
+Character_06 Idle 3.83
+Character_06 Idle 3.68
+Character_06 Idle 4.45
+Character_07 Idle 3.41
+Character_07 Idle 5.34
+Character_07 Idle 4.59
+Character_07 Idle 4.56
+Character_07 Idle 4.86
+Character_07 Idle 2.27
+Character_07 LookAround 2.67
+Character_07 GoTo 5.57 -5.45 0.0 _
+Character_07 LookAround 3.4
+Character_07 Idle 5.98
+Character_07 Idle 2.17
+Character_07 Idle 5.18
+Character_07 LookAround 2.43

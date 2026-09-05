@@ -1,0 +1,14 @@
+# Install into a venv created with:
+#   uv venv --python /usr/bin/python3 --system-site-packages .venv
+# rclpy and cv_bridge come from the ROS 2 Jazzy apt install, not from pip.
+#
+# PyTorch: if your NVIDIA driver is 570.x, install the CUDA 12.8 build separately:
+#   uv pip install --reinstall torch torchvision --index-url https://download.pytorch.org/whl/cu128
+
+rfdetr
+supervision
+pillow
+
+# ROS 2 Jazzy packages are compiled against NumPy 1.x. Keep these pinned.
+numpy<2
+scipy<1.14
