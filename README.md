@@ -5,7 +5,7 @@ Real-time object detection and tracking with a custom-trained RF-DETR model insi
 <!-- Add your demo GIF here -->
 ![Demo](media/demo.gif)
 
-> Full step by step guide with every error I hit and how I fixed it: [Read the article on Medium](https://medium.com/@yourhandle/your-post-link-here)
+> Full step by step guide with every error I hit and how I fixed it: [Read the article on Medium](https://farukalamai.medium.com/object-detection-and-tracking-in-a-simulated-warehouse-with-nvidia-isaac-sim-rf-detr-and-ros-2-e63d57fae24a)
 
 ## What this does
 
